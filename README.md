@@ -1,5 +1,5 @@
 # Nigerian-Movie-Recommendation-System
-A Movie Recommendation System of Nigerian Movies
+A Movie Recommendation System for Nigerian Movies
 
 I have always enjoyed Nigerian movies and series. Recently, I thought about how I could help myself and others interested in Nigerian movies to get recommendations on movies to watch based on a movie they liked and had previously watched.
 
