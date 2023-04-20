@@ -8,3 +8,5 @@ Of course, the way to do this would be to create accounts on the numerous movie 
 I decided to build a Nigerian movie recommendation system, getting data from the Internet Movie Database (IMDb), the largest online database of movie-related information.
 
 This recommendation system is content-based: utilising attributes like the cast, director, synopsis, genre, movie title, etc. It works with the assumption that if a user likes a particular movie, then similar movies would also be of interest.
+
+A detailed description on the project so far is available on: https://emmanuelogebe.hashnode.dev/nigerian-movie-recommendation-system-a-machine-learning-project
